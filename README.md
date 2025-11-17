@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Vqqpq2Gg)
 # CSCC01 Lab 4 &mdash; MERN & Chatter
-In this lab, you will be building a full-stack social media web application similar to ~~Twitter~~ X. Our app will be called Chatter. As a little bit more of an advanced feature, you will also implement infinite scrolling for the app. You will expand your knowledge of React, Express, and Sequelize.
+In this lab, you will be building a full-stack social media web application similar to X. Our app will be called Chatter. As a little bit more of an advanced feature, you will also implement infinite scrolling for the app. You will expand your knowledge of React, Express, and Sequelize.
 
 In this lab, you will:
 - Learn how to perform user authentication and create sessions in the backend.
